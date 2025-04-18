@@ -1,7 +1,7 @@
 from pet import Pet
 
 # Create your pet
-my_pet = Pet("Max")
+my_pet = Pet("Penny")
 print(f"Creating pet: {my_pet.name} 🐕\n")
 
 # Simulate actions
